@@ -1,4 +1,4 @@
-<p align="center"> # 🌟 TweetStream Analytics Hub </p>
+# <p align="center"> 🌟 TweetStream Analytics Hub </p>
 
 **Where Tweets Meet Technology** 🚀  
 Real-time Twitter analytics using big data processing, sentiment analysis, and interactive visualizations.
